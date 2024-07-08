@@ -3,7 +3,7 @@
 Not very secure
 -------------------
 Смотреть на платформе CodeWars:
-* [Задачу](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
+* [Задание](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 * [Мое решение](https://www.codewars.com/kata/reviews/552d66e999020732900002ae/groups/64dfd496bf565d0001279537)
 
 Условия задачи:
