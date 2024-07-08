@@ -7,4 +7,4 @@ AffordableVacation
 
 Условия задачи:
 ---------------
-![Фото](https://www.codewars.com/kata/66871953e441f6da6e36a0cc)
+![Фото](https://github.com/Ilysikov/CodeWars/blob/master/docs/Affordable%20Vacation%20%7C%20Codewars.pdf
