@@ -1,5 +1,4 @@
-5 Kyu
-======
+
 Directions Reduction
 -------------------
 Смотреть на платформе CodeWars:

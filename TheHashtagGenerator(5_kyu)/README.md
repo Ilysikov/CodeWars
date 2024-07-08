@@ -1,5 +1,4 @@
-5 Kyu
-======
+
 The Hashtag Generator
 ----------------------
 Смотреть на платформе CodeWars:
