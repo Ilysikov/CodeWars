@@ -1,4 +1,6 @@
-![]()
+
+![](https://github.com/Ilysikov/CodeWars/blob/master/docs/Python%20Solution%20for%20Affordable%20Vacation%20by%20I_lysikov%20%7C%20Codewars.jpg)
+
 Tic-Tac-Toe Checker
 -------------------
 * [Ссылка на задачу:](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
