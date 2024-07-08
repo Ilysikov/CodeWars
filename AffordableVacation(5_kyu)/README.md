@@ -8,3 +8,4 @@ AffordableVacation
 Условия задачи:
 ---------------
 ![](https://github.com/Ilysikov/CodeWars/blob/master/docs/Affordable%20Vacation%20%7C%20Codewars.pdf)
+.
