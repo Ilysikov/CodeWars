@@ -1,5 +1,5 @@
 
-![](https://github.com/Ilysikov/CodeWars/blob/master/docs/Python%20Solution%20for%20Affordable%20Vacation%20by%20I_lysikov%20%7C%20Codewars.jpg)
+![](https://github.com/Ilysikov/CodeWars/blob/master/docs/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%B9%20%D0%BE%D1%82%D0%B4%D1%8B%D1%85%20%7C%20Codewars.jpg)
 
 Tic-Tac-Toe Checker
 -------------------
